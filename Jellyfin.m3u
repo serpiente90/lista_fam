@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/UtFXjIn.png",AZTECA_7
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/UtFXjIn.png",Azteca 7
 http://38.49.128.38:8000/play/a0la/index.m3u8
-#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/rRxgBtI.png",AZTECA_UNO
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/rRxgBtI.png",Azteca UNO
 http://38.49.128.38:8000/play/a0cc/index.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/4DfnOTA.png",BANDAMAX
+#EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/4DfnOTA.png",Bandamax
 http://181.78.106.127:9000/play/ca064/index.m3u8
-#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/uZdVSoW.png",CANAL_5
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/uZdVSoW.png",Canal 5
 http://38.49.128.38:8000/play/a0n6/index.m3u8
-#EXTINF:-1 group-title="Niños" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",DISNEY_JR
+#EXTINF:-1 group-title="Niños" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",Disney JR
 http://38.49.128.38:8000/play/a0bz/index.m3u8
-#EXTINF:-1 tvg-id="Niños" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",Disney Channel
+#EXTINF:-1 tvg-id="Niños" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/330px-2024_Disney_Channel_text_logo.svg.png",Disney Channel
 http://201.230.121.186:8000/play/a0fb/index.m3u8
-#EXTINF:-1 group-title="Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png", DISTRITO COMEDIA
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png", Distrito Comedia
 http://45.5.119.43:4000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png",DREAMWORKS
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png",Dreamworks
 http://181.78.106.127:9000/play/ca054/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN
 http://38.49.128.38:8000/play/a091/index.m3u8
@@ -23,25 +23,25 @@ http://45.5.119.43:4000/play/a053/index.m3u8
 http://38.49.128.38:8000/play/a0c3/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png",FOX Deportes
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=96186bd4-ccda-4af2-a3b9-7d20a3463218
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png",FOX SPORT 1
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png",FOX Sport 1
 http://181.78.106.127:9000/play/ca031/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/3lOZWeD.png",FOX SPORT PREMIUM 
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/3lOZWeD.png",FOX Sport Premium 
 https://deportes.ksdjugfsddeports.com:9092/MTg5LjIxNi4xODEuNQ==/12_.m3u8?token=d_iik0kKd9hZZK__acbxYQ&expires=1770888534
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/NNd1lYl.png",Golden
 http://45.5.119.43:4000/play/a0jv/index.m3u8
 #EXTINF:-1 group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO
 http://38.49.128.38:8000/play/a0c5/index.m3u8
-#EXTINF:-1 group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png",HBO_2
+#EXTINF:-1 group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png",HBO 2
 http://45.5.119.43:4000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png",HBO_Family
+#EXTINF:-1 group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png",HBO Family
 http://45.5.119.43:4000/play/a0l5/index.m3u8
-#EXTINF:-1 group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png",HBO_XTREME
+#EXTINF:-1 group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png",HBO XTREME
 http://38.49.128.38:8000/play/a096/index.m3u8
 #EXTINF:-1 group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png",HBO +
 http://38.49.128.38:8000/play/a0cv/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png",La_Liga
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png",La Liga
 http://45.5.119.43:4000/play/a05r/index.m3u8
-#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/g5ShxZ7.png" ,Las Estrellas
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/g5ShxZ7.png",Las Estrellas
 http://38.49.128.38:8000/play/a0le/index.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/nefPi2Y.png",Multimedios
 http://181.78.106.127:9000/play/a0oe/index.m3u8
