@@ -7,6 +7,8 @@ http://38.49.128.38:8000/play/a0cc/index.m3u8
 http://181.78.106.127:9000/play/ca064/index.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/uZdVSoW.png",Canal 5
 http://38.49.128.38:8000/play/a0n6/index.m3u8
+#EXTINF:-1 group-title="Niños" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3f51c3bc985994d3ea01824291571f2f.png",Cartoon Network
+http://filex.me:8080//live/03057586761G/03057586761G/316442.ts
 #EXTINF:-1 group-title="Niños" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",Disney JR
 http://38.49.128.38:8000/play/a0bz/index.m3u8
 #EXTINF:-1 tvg-id="Niños" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/330px-2024_Disney_Channel_text_logo.svg.png",Disney Channel
@@ -23,8 +25,12 @@ http://45.5.119.43:4000/play/a053/index.m3u8
 http://38.49.128.38:8000/play/a0c3/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png",FOX Deportes
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=96186bd4-ccda-4af2-a3b9-7d20a3463218
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png",FOX Sport 1
-http://181.78.106.127:9000/play/ca031/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png",FOX Sports 1
+http://filex.me:8080//live/03057586761G/03057586761G/316750.ts
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="MX: FOX Sports 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/4860d5094856c80be9a0e80d4e3ea61b.jpg" group-title="Mexico",FOX Sports 2
+http://filex.me:8080//live/03057586761G/03057586761G/316751.ts
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="MX: FOX Sports 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/1a4f7efe2244027b516ad0c5bb0319a0.png" group-title="Mexico",FOX Sports 3
+http://filex.me:8080//live/03057586761G/03057586761G/316752.ts
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/3lOZWeD.png",FOX Sport Premium 
 https://deportes.ksdjugfsddeports.com:9092/MTg5LjIxNi4xODEuNQ==/12_.m3u8?token=d_iik0kKd9hZZK__acbxYQ&expires=1770888534
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/NNd1lYl.png",Golden
@@ -43,8 +49,8 @@ http://38.49.128.38:8000/play/a0cv/index.m3u8
 http://45.5.119.43:4000/play/a05r/index.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/g5ShxZ7.png",Las Estrellas
 http://38.49.128.38:8000/play/a0le/index.m3u8
-#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/nefPi2Y.png",Multimedios
-http://181.78.106.127:9000/play/a0oe/index.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/nefPi2Y.png",Multimedios Televisión Canal 6
+http://filex.me:8080//live/03057586761G/03057586761G/316500.ts
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/H3PzGZW.png",Multipremier
 http://181.78.106.127:9000/play/ca087/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png", NBA
@@ -55,6 +61,8 @@ http://38.49.128.38:8000/play/a0kk/index.m3u8
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4f542da4-e11c-4e1a-b2c5-72bb020bd334
 #EXTINF:-1 group-title="Niños" tvg-logo="https://i.imgur.com/KT4tdQs.png",Nick Jr.
 http://38.199.6.1:17001/play/a0pb/index.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/8413e73bbbe39a25f85ae348762d5b15.svg",N+ Media
+http://filex.me:8080//live/03057586761G/03057586761G/316453.ts
 #EXTINF:-1 group-title="Peliculas" tvg-logo="",Paramount
 http://181.78.106.127:9000/play/ca082/index.m3u8
 #EXTINF:-1 group-title="Novelas" tvg-logo="",Pasiones
@@ -67,12 +75,15 @@ https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
 http://181.78.106.127:9000/play/ca028/index.m3u8 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/jWsW2Rd.png",SKY_PREMIER
 http://181.78.106.127:9000/play/ca029/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/7137f285611f077ad30bb0d47ed1bacd.png",SONY Movies HD
+http://filex.me:8080//live/03057586761G/03057586761G/316480.ts
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png",SPACE
 http://181.78.106.127:9000/play/a0p3/index.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png",  STUDIO UNIVERSAL
-http://38.49.128.38:8000/play/a0bh/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png",Studio Universal
 #EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/NVxHxJn.png",TELEHIT
-http://181.78.106.127:9000/play/ca065/index.m3u8
+http://filex.me:8080//live/03057586761G/03057586761G/316456.ts
+#EXTINF:-1 group-title="Musica" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ddd07a323bd82e3c8ce03f30dba9c97f.png",Telehit Musica HD
+http://filex.me:8080//live/03057586761G/03057586761G/316455.ts
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT_SERIES
 http://38.49.128.38:8000/play/a0da/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN(MX)
