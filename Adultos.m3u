@@ -9,7 +9,7 @@ http://181.78.106.127:9000/play/ca064/index.m3u8
 http://38.49.128.38:8000/play/a0n6/index.m3u8
 #EXTINF:-1 group-title="Niños" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",DISNEY_JR
 http://38.49.128.38:8000/play/a0bz/index.m3u8
-#EXTINF:-1 tvg-id="Niños" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Animation;Kids",Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Animation;Kids",Disney Channel
 http://201.230.121.186:8000/play/a0fb/index.m3u8
 #EXTINF:-1 group-title="Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png", DISTRITO COMEDIA
 http://45.5.119.43:4000/play/a05l/index.m3u8
@@ -59,10 +59,14 @@ http://38.199.6.1:17001/play/a0pb/index.m3u8
 http://181.78.106.127:9000/play/ca082/index.m3u8
 #EXTINF:-1 group-title="Novelas" tvg-logo="",Pasiones
 http://181.78.106.127:9000/play/ca017/index.m3u8
+#EXTINF:-1 group-title="Porno" tvg-logo="https://i.imgur.com/5di4Nis.png",PLAYBOY
+http://45.5.119.43:4000/play/a02t/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://es.wikipedia.org/wiki/PX_Sports#/media/Archivo:PX_Sports_-_Logo.png",PX SPORTS
 http://38.49.128.38:8000/play/a0ku/index.m3u8
-#EXTINF:-1 tvg-id="Musica" tvg-logo="https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png" group-title="Music",Radio Télé Hit
+#EXTINF:-1 tvg-id="RadioTeleHit.ht@SD" tvg-logo="https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png" group-title="Music",Radio Télé Hit
 https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
+#EXTINF:-1 group-title="Porno" tvg-logo="https://i.imgur.com/jWsW2Rd.png",SEX_XTREME
+http://38.49.128.38:8000/play/a09c/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="",SKY_BUNDESLIGA
 http://181.78.106.127:9000/play/ca028/index.m3u8 
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/jWsW2Rd.png",SKY_PREMIER
@@ -80,6 +84,8 @@ http://45.5.119.43:4000/play/a05q/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN(USA)
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="",Universal_TV
+http://45.5.119.43:4000/play/a0ih/index.m3u8
+#EXTINF:-1 group-title="Porno" tvg-logo="https://i.imgur.com/4LFXPMk.png",VENUS
 http://45.5.119.43:4000/play/a02u/index.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="",VIDEO_ROLA
 http://38.49.128.38:8000/play/a0b5/index.m3u8
