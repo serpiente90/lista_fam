@@ -19,6 +19,8 @@ http://45.5.119.43:4000/play/a053/index.m3u8
 http://38.49.128.38:8000/play/a0c3/index.m3u8
 #EXTINF:-1 group-title='Mexico',ESTRELLAS
 http://38.49.128.38:8000/play/a0le/index.m3u8
+#EXTINF:-1 group-title='Deportes' tvg-id="FoxDeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Sports",FOX Deportes
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=96186bd4-ccda-4af2-a3b9-7d20a3463218
 #EXTINF:-1 group-title='Deportes',FOX SPORT 1
 http://181.78.106.127:9000/play/ca031/index.m3u8
 #EXTINF:-1 group-title='Deportes',FOX SPORT PREMIUM
