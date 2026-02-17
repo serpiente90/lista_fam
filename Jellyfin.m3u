@@ -9,7 +9,7 @@ http://181.78.106.127:9000/play/ca064/index.m3u8
 http://38.49.128.38:8000/play/a0n6/index.m3u8
 #EXTINF:-1 group-title="Niños" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",DISNEY_JR
 http://38.49.128.38:8000/play/a0bz/index.m3u8
-#EXTINF:-1 tvg-id="Niños" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Animation;Kids",Disney Channel
+#EXTINF:-1 tvg-id="Niños" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",Disney Channel
 http://201.230.121.186:8000/play/a0fb/index.m3u8
 #EXTINF:-1 group-title="Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png", DISTRITO COMEDIA
 http://45.5.119.43:4000/play/a05l/index.m3u8
@@ -47,13 +47,13 @@ http://38.49.128.38:8000/play/a0le/index.m3u8
 http://181.78.106.127:9000/play/a0oe/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/H3PzGZW.png",Multipremier
 http://181.78.106.127:9000/play/ca087/index.m3u8
-#EXTINF:-1   group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png", NBA
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png", NBA
 http://38.49.128.38:8000/play/a0kj/index.m3u8
-#EXTINF:-1   group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png", NFL
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png", NFL
 http://38.49.128.38:8000/play/a0kk/index.m3u8
 #EXTINF:-1 group-title="Niños" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4f542da4-e11c-4e1a-b2c5-72bb020bd334
-#EXTINF:-1 tvg-id="Niños" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr.
+#EXTINF:-1 group-title="Niños" tvg-logo="https://i.imgur.com/KT4tdQs.png",Nick Jr.
 http://38.199.6.1:17001/play/a0pb/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="",Paramount
 http://181.78.106.127:9000/play/ca082/index.m3u8
@@ -61,7 +61,7 @@ http://181.78.106.127:9000/play/ca082/index.m3u8
 http://181.78.106.127:9000/play/ca017/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://es.wikipedia.org/wiki/PX_Sports#/media/Archivo:PX_Sports_-_Logo.png",PX SPORTS
 http://38.49.128.38:8000/play/a0ku/index.m3u8
-#EXTINF:-1 tvg-id="Musica" tvg-logo="https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png" group-title="Music",Radio Télé Hit
+#EXTINF:-1 group-title="Musica" tvg-logo="https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png",Radio Télé Hit
 https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="",SKY_BUNDESLIGA
 http://181.78.106.127:9000/play/ca028/index.m3u8 
@@ -69,7 +69,7 @@ http://181.78.106.127:9000/play/ca028/index.m3u8
 http://181.78.106.127:9000/play/ca029/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png",SPACE
 http://181.78.106.127:9000/play/a0p3/index.m3u8
-#EXTINF:-1   group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png",  STUDIO UNIVERSAL
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png",  STUDIO UNIVERSAL
 http://38.49.128.38:8000/play/a0bh/index.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/NVxHxJn.png",TELEHIT
 http://181.78.106.127:9000/play/ca065/index.m3u8
