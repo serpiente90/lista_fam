@@ -1,73 +1,79 @@
 #EXTM3U
-#EXTINF:-1 group-title='Mexico',AZTECA_7
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/UtFXjIn.png",AZTECA_7
 http://38.49.128.38:8000/play/a0la/index.m3u8
-#EXTINF:-1 group-title='Mexico',AZTECA_UNO
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/rRxgBtI.png",AZTECA_UNO
 http://38.49.128.38:8000/play/a0cc/index.m3u8
-#EXTINF:-1 group-title='Musica',BANDAMAX
+#EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/4DfnOTA.png",BANDAMAX
 http://181.78.106.127:9000/play/ca064/index.m3u8
-#EXTINF:-1 group-title='Mexico',CANAL_5
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/uZdVSoW.png",CANAL_5
 http://38.49.128.38:8000/play/a0n6/index.m3u8
-#EXTINF:-1 group-title='Niños',DISNEY_JR
+#EXTINF:-1 group-title="Niños" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",DISNEY_JR
 http://38.49.128.38:8000/play/a0bz/index.m3u8
-#EXTINF:-1 group-title='Peliculas',DREAMWORKS
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png", DISTRITO COMEDIA
+http://45.5.119.43:4000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="Peliculas",DREAMWORKS
 http://181.78.106.127:9000/play/ca054/index.m3u8
-#EXTINF:-1 group-title='Deportes',ESPN
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN
 http://38.49.128.38:8000/play/a091/index.m3u8
-#EXTINF:-1 group-title='Deportes',ESPN_2
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" ,ESPN_2
 http://45.5.119.43:4000/play/a053/index.m3u8
-#EXTINF:-1 group-title='Deportes',ESPN_3
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/512px-ESPN3_Logo.png",ESPN_3
 http://38.49.128.38:8000/play/a0c3/index.m3u8
-#EXTINF:-1 group-title='Mexico',ESTRELLAS
-http://38.49.128.38:8000/play/a0le/index.m3u8
-#EXTINF:-1 group-title='Deportes' tvg-id="FoxDeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Sports",FOX Deportes
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png",FOX Deportes
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=96186bd4-ccda-4af2-a3b9-7d20a3463218
-#EXTINF:-1 group-title='Deportes',FOX SPORT 1
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png",FOX SPORT 1
 http://181.78.106.127:9000/play/ca031/index.m3u8
-#EXTINF:-1 group-title='Deportes',FOX SPORT PREMIUM
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/3lOZWeD.png",FOX SPORT PREMIUM 
 https://deportes.ksdjugfsddeports.com:9092/MTg5LjIxNi4xODEuNQ==/12_.m3u8?token=d_iik0kKd9hZZK__acbxYQ&expires=1770888534
-#EXTINF:-1 group-title='Peliculas',Golden
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/NNd1lYl.png",Golden
 http://45.5.119.43:4000/play/a0jv/index.m3u8
-#EXTINF:-1 group-title='Peliculas',HBO_2
+#EXTINF:-1 group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO
+http://38.49.128.38:8000/play/a0c5/index.m3u8
+#EXTINF:-1 group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png",HBO_2
 http://45.5.119.43:4000/play/a00c/index.m3u8
-#EXTINF:-1 group-title='Peliculas',HBO_Family
+#EXTINF:-1 group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png",HBO_Family
 http://45.5.119.43:4000/play/a0l5/index.m3u8
-#EXTINF:-1 group-title='Peliculas',HBO_XTREME
+#EXTINF:-1 group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png",HBO_XTREME
 http://38.49.128.38:8000/play/a096/index.m3u8
-#EXTINF:-1 group-title='Deportes',LA_LIGA
+#EXTINF:-1 group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png",HBO +
+http://38.49.128.38:8000/play/a0cv/index.m3u8
+#EXTINF:-1 group-title="Deportes",La_Liga
 http://45.5.119.43:4000/play/a05r/index.m3u8
-#EXTINF:-1 group-title='Mexico',Multimedios
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/g5ShxZ7.png" ,Las Estrellas
+http://38.49.128.38:8000/play/a0le/index.m3u8
+#EXTINF:-1 group-title="Mexico",Multimedios
 http://181.78.106.127:9000/play/a0oe/index.m3u8
-#EXTINF:-1 group-title='Peliculas',Multipremier
+#EXTINF:-1 group-title="Peliculas",Multipremier
 http://181.78.106.127:9000/play/ca087/index.m3u8
-#EXTINF:-1 group-title='Niños',Nickelodeon
+#EXTINF:-1 group-title="Niños",Nickelodeon
 http://181.78.106.127:9000/play/ca052/index.m3u8
-#EXTINF:-1 group-title='Peliculas',Paramount HD
+#EXTINF:-1 group-title="Peliculas",Paramount HD
 http://181.78.106.127:9000/play/ca082/index.m3u8
-#EXTINF:-1 group-title='Novelas',Pasiones HD
+#EXTINF:-1 group-title="Novelas",Pasiones HD
 http://181.78.106.127:9000/play/ca017/index.m3u8
-#EXTINF:-1 group-title='Porno',PLAYBOY
+#EXTINF:-1 group-title="Porno" tvg-logo="https://i.imgur.com/5di4Nis.png",PLAYBOY
 http://45.5.119.43:4000/play/a02t/index.m3u8
-#EXTINF:-1 group-title='Deportes',PX SPORTS
+#EXTINF:-1 group-title="Deportes",PX SPORTS
 http://38.49.128.38:8000/play/a0ku/index.m3u8
-#EXTINF:-1 group-title='Porno',SEX_XTREME
+#EXTINF:-1 group-title="Porno",SEX_XTREME
 http://38.49.128.38:8000/play/a09c/index.m3u8
-#EXTINF:-1 group-title='Deportes',SKY_BUNDESLIGA
+#EXTINF:-1 group-title="Deportes",SKY_BUNDESLIGA
 http://181.78.106.127:9000/play/ca028/index.m3u8 
-#EXTINF:-1 group-title='Deportes',SKY_PREMIER
+#EXTINF:-1 group-title="Deportes",SKY_PREMIER
 http://181.78.106.127:9000/play/ca029/index.m3u8
-#EXTINF:-1 group-title='Peliculas',SPACE
+#EXTINF:-1 group-title="Peliculas",SPACE
 http://181.78.106.127:9000/play/a0p3/index.m3u8
-#EXTINF:-1 group-title='Musica',TELEHIT
+#EXTINF:-1 group-title="Musica",TELEHIT
 http://181.78.106.127:9000/play/ca065/index.m3u8
-#EXTINF:-1 group-title='Peliculas',TNT_SERIES
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT_SERIES
 http://38.49.128.38:8000/play/a0da/index.m3u8
-#EXTINF:-1 group-title='Deportes',TUDN(MX)
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjIxNi4xODEuNQ==/1_.m3u8?token=EMB_I0RZvXBLdVa8duy77w&expires=1770888218
-#EXTINF:-1 group-title='Deportes',TUDN(USA)
-http://181.78.106.127:9000/play/ca036/index.m3u8
-#EXTINF:-1 group-title='Peliculas',Universal_TV
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN(MX)
+http://45.5.119.43:4000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN(USA)
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 group-title="Peliculas",Universal_TV
 http://45.5.119.43:4000/play/a0ih/index.m3u8
-#EXTINF:-1 group-title='Porno',VENUS
+#EXTINF:-1 group-title="Porno" tvg-logo="https://i.imgur.com/4LFXPMk.png",VENUS
 http://45.5.119.43:4000/play/a02u/index.m3u8
-#EXTINF:-1 group-title='Musica',VIDEO_ROLA
+#EXTINF:-1 group-title="Musica",VIDEO_ROLA
 http://38.49.128.38:8000/play/a0b5/index.m3u8
