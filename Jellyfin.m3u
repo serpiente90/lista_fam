@@ -106,8 +106,8 @@ http://38.49.128.38:8000/play/a0da/index.m3u8
 http://45.5.119.43:4000/play/a05q/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN(USA)
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="",Universal_TV
-http://45.5.119.43:4000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="",Universal TV
+http://38.49.128.38:8000/play/a0bt/index.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0c936060ef7611689676c2134171fb61.png",Unicable
 http://filex.me:8080//live/03057586761G/03057586761G/316787.ts
 #EXTINF:-1 group-title="Musica" tvg-logo="",VIDEO_ROLA
