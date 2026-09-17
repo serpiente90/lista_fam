@@ -4,7 +4,7 @@ http://38.49.128.38:8000/play/a0la/index.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/rRxgBtI.png",Azteca UNO
 http://38.49.128.38:8000/play/a0cc/index.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/4DfnOTA.png",Bandamax
-http://filex.me:8080//live/03057586761G/03057586761G/316454.ts
+http://177.234.249.135:8888/Bandamax/index.m3u8
 #EXTINF:-1  group-title="Niños"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d09e68cd4fec58ea4c23bc22e4047b26.png",Bitme
 http://filex.me:8080//live/03057586761G/03057586761G/316469.ts
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/uZdVSoW.png",Canal 5
@@ -44,7 +44,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png",FOX Sports 1
 http://filex.me:8080//live/03057586761G/03057586761G/316750.ts
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/4860d5094856c80be9a0e80d4e3ea61b.jpg",FOX Sports 2
-http://filex.me:8080//live/03057586761G/03057586761G/316751.ts
+http://190.60.37.154:45000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/1a4f7efe2244027b516ad0c5bb0319a0.png",FOX Sports 3
 http://filex.me:8080//live/03057586761G/03057586761G/316752.ts
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/3lOZWeD.png",FOX Sport Premium 
